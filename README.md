@@ -3,7 +3,7 @@ For personal notes and reference
 
 ### Blockchain:
 
-| Direct      | Other      | Friends    | Foes         |
+| Direct      | Other      | Friends?    | Foes         |
 |-------------|------------|------------|--------------|
 | Gun         | IPFS       | Bitcoin    | EOS          |
 | ZeroNet     | Libra      | GridCoin   | Augur        |
