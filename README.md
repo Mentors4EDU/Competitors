@@ -32,4 +32,5 @@ For personal notes and reference
 - Friend Network
 - Floflis Platform
 - OSA Decentralized
-- Douglass Global Decentralized OS
+- Douglass Global Decentralized OS  
+- [DC-OS](https://dcos.io/)
