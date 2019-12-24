@@ -33,4 +33,4 @@ For personal notes and reference
 - Floflis Platform
 - OSA Decentralized
 - Douglass Global Decentralized OS  
-- [DC-OS](https://dcos.io/)
+- [DC/OS](https://dcos.io/)
