@@ -22,6 +22,7 @@ For personal notes and reference
 - Tron
 - TChain
 - Fabric
+- [DC/OS](https://dcos.io/)
 - BitVPN
 - Sirin OS
 - Brahma OS
@@ -32,5 +33,4 @@ For personal notes and reference
 - Friend Network
 - Floflis Platform
 - OSA Decentralized
-- Douglass Global Decentralized OS  
-- [DC/OS](https://dcos.io/)
+- Douglass Global Decentralized OS
