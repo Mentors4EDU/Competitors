@@ -15,6 +15,8 @@ For personal notes and reference
 
 ### Hardware
 - elk.cc
+- Subutai
+- Blocknet
 - Particle.io
 - ESP32-Ethernet-Kit
 
