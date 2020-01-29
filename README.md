@@ -15,8 +15,10 @@ For personal notes and reference
 
 ### Hardware
 - elk.cc
+- Helium
 - Subutai
 - Blocknet
+- Router.link
 - Particle.io
 - ESP32-Ethernet-Kit
 
