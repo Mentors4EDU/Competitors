@@ -6,16 +6,17 @@ For personal notes and reference
 | Direct      | Other      | Friends?    | Foes         |
 |-------------|------------|------------|--------------|
 | Gun         | IPFS       | Bitcoin    | EOS          |
-| ZeroNet     | Libra      | GridCoin   | Augur        |
-| Ethereum    | Althea     | Cryptonote | Tether       |
-| HandShake   | Arweave    |            | Bitcoin SV   |
-| Substraum   | Pied Piper |            | Bitcoin Cash |
-| Decenternet | NameCoin   |            |              |
-|             | Blockstack |            |              |
+| Solid       | Libra      | GridCoin   | Augur        |
+| ZeroNet     | Althea     | Cryptonote | Tether       |
+| Ethereum    | Arweave    |            | Bitcoin SV   |
+| HandShake   | Pied Piper |            | Bitcoin Cash |
+| Substraum   | NameCoin   |            |              |
+| Decenternet | Blockstack |            |              |
 
 ### Hardware
 - elk.cc
 - Helium
+- Cadfort
 - Subutai
 - Blocknet
 - Router.link
