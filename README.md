@@ -8,9 +8,9 @@ For personal notes and reference
 | Gun         | IPFS       | Bitcoin    | EOS          |
 | ZeroNet     | Libra      | GridCoin   | Augur        |
 | Ethereum    | Althea     | Cryptonote | Tether       |
-| Substraum   | Arweave    |            | Bitcoin SV   |
-| Decenternet | Pied Piper |            | Bitcoin Cash |
-|             | NameCoin   |            |              |
+| HandShake   | Arweave    |            | Bitcoin SV   |
+| Substraum   | Pied Piper |            | Bitcoin Cash |
+| Decenternet | NameCoin   |            |              |
 |             | Blockstack |            |              |
 
 ### Hardware
