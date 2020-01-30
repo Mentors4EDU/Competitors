@@ -17,6 +17,7 @@ For personal notes and reference
 - elk.cc
 - Helium
 - Cadfort
+- Skycoin
 - Subutai
 - Blocknet
 - Particle.io
