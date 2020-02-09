@@ -14,6 +14,7 @@ For personal notes and reference
 | [Decenternet](https://decenternet.com/) | [Blockstack](https://blockstack.org/) |            |              |
 
 ### Hardware
+- [Ori](https://www.ori.co/)
 - [elk.cc](https://elk.cc/homepage)
 - [Helium](https://www.helium.com/)
 - [Cadfort](https://ieeexplore.ieee.org/document/8705912)
