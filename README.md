@@ -20,6 +20,7 @@ For personal notes and reference
 - [Skycoin](https://www.skycoin.com/)
 - [Subutai](https://subutai.io/index.html)
 - [Blocknet](https://blocknet.co/introducing-xrouter-developers-can-now-mix-and-match-any-blockchain-via-the-worlds-first-blockchain-router/)
+- [Nebulous](https://nebulous.tech/)
 - [Particle.io](https://www.particle.io/)
 - [Router.link](https://router.link/main.html#/)
 - [ESP32-Ethernet-Kit](https://docs.espressif.com/projects/esp-idf/en/latest/hw-reference/get-started-ethernet-kit.html)
