@@ -23,6 +23,7 @@ For personal notes and reference
 - [Particle.io](https://www.particle.io/)
 - [Router.link](https://router.link/main.html#/)
 - [ESP32-Ethernet-Kit](https://docs.espressif.com/projects/esp-idf/en/latest/hw-reference/get-started-ethernet-kit.html)
+- [The 21 Bitcoin Computer](https://www.amazon.com/21-INC-21BC1-Bitcoin-Computer/dp/B014RD021C)
 
 ### Operating System
 - [Tron](https://www.hyperledger.org/projects/fabric)
