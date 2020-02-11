@@ -16,6 +16,7 @@ For personal notes and reference
 ### Hardware
 - [Ori](https://www.ori.co/)
 - [elk.cc](https://elk.cc/homepage)
+- [Blinkit](https://techtek.github.io/Blinkit/)
 - [Helium](https://www.helium.com/)
 - [Cadfort](https://ieeexplore.ieee.org/document/8705912)
 - [Skycoin](https://www.skycoin.com/)
