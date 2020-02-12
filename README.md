@@ -46,3 +46,11 @@ For personal notes and reference
 - [Computes DOS](https://blog.computes.com/computes-dos-decentralized-operating-system-e6056353c220)
 - [OSA Decentralized](https://osadc.io/en/)
 - [Douglass Global Decentralized OS](https://douglass.io/)
+
+### Programming Languages
+- [Ivy]
+- [Ride]
+- [Spedn]
+- [Rholang]
+- [Solidity]
+- [Miniscript]
