@@ -48,9 +48,9 @@ For personal notes and reference
 - [Douglass Global Decentralized OS](https://douglass.io/)
 
 ### Programming Languages
-- [Ivy]
-- [Ride]
-- [Spedn]
-- [Rholang]
-- [Solidity]
-- [Miniscript]
+- [Ivy](https://docs.ivy-lang.org/bitcoin/)
+- [Ride](https://docs.wavesplatform.com/en/ride/)
+- [Spedn](https://spedn.readthedocs.io/en/latest/)
+- [Rholang](https://developer.rchain.coop/)
+- [Solidity](https://solidity.readthedocs.io/en/v0.6.2/)
+- [Miniscript](http://bitcoin.sipa.be/miniscript/)
