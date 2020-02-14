@@ -49,8 +49,16 @@ For personal notes and reference
 
 ### Programming Languages
 - [Ivy](https://docs.ivy-lang.org/bitcoin/)
+- [Lira](https://www.coindesk.com/etoro-aims-to-put-derivatives-on-the-blockchain-with-lira-programming-language)
 - [Ride](https://docs.wavesplatform.com/en/ride/)
+- [Varna](https://github.com/aeternity/protocol/blob/master/contracts/varna.md)
 - [Spedn](https://spedn.readthedocs.io/en/latest/)
+- [Vyper](https://github.com/vyperlang/vyper)
+- [Script](https://en.bitcoin.it/wiki/Script)
+- [Plutus](https://cardanodocs.com/technical/plutus/introduction/)
+- [Sophia](https://github.com/aeternity/protocol/blob/master/contracts/sophia.md)
 - [Rholang](https://developer.rchain.coop/)
 - [Solidity](https://solidity.readthedocs.io/en/v0.6.2/)
+- [Obsidian](http://obsidian-lang.com/)
 - [Miniscript](http://bitcoin.sipa.be/miniscript/)
+- [Simplicity](https://blockstream.com/2018/11/28/en-simplicity-github/)
