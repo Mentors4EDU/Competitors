@@ -61,6 +61,7 @@ For personal notes and reference
 - [Sophia](https://github.com/aeternity/protocol/blob/master/contracts/sophia.md)
 - [Solidity](https://solidity.readthedocs.io/en/v0.6.2/)
 - [Rholang](https://developer.rchain.coop/)
+- [Mandala](https://www.academia.edu/37920706/Mandala_A_Smart_Contract_Programming_Language)
 - [Obsidian](http://obsidian-lang.com/)
 - [Simplicity](https://blockstream.com/2018/11/28/en-simplicity-github/)
 - [Miniscript](http://bitcoin.sipa.be/miniscript/)
