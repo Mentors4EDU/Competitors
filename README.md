@@ -15,12 +15,14 @@ For personal notes and reference
 
 ### Hardware
 - [Ori](https://www.ori.co/)
+- [TAAL](https://www.taal.com/)
 - [elk.cc](https://elk.cc/homepage)
 - [Blinkit](https://techtek.github.io/Blinkit/)
 - [Helium](https://www.helium.com/)
 - [Cadfort](https://ieeexplore.ieee.org/document/8705912)
 - [Skycoin](https://www.skycoin.com/)
 - [Subutai](https://subutai.io/index.html)
+- [Bitmain](https://www.bitmain.com/)
 - [Blocknet](https://blocknet.co/introducing-xrouter-developers-can-now-mix-and-match-any-blockchain-via-the-worlds-first-blockchain-router/)
 - [Nebulous](https://nebulous.tech/)
 - [Particle.io](https://www.particle.io/)
