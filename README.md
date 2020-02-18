@@ -54,6 +54,8 @@ For personal notes and reference
 - [Yul](https://solidity.readthedocs.io/en/latest/yul.html)
 - [Lira](https://www.coindesk.com/etoro-aims-to-put-derivatives-on-the-blockchain-with-lira-programming-language)
 - [LDL](https://eprint.iacr.org/2018/416)
+- [Idris](https://www.idris-lang.org/)
+- [Flint](https://github.com/flintlang/flint)
 - [Ride](https://docs.wavesplatform.com/en/ride/)
 - [Pact](https://www.kadena.io/kadena-pactwhitepaper)
 - [Scilla](https://scilla.readthedocs.io/en/latest/)
