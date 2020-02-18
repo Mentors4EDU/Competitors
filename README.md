@@ -50,6 +50,8 @@ For personal notes and reference
 ### Programming Languages
 - [E](http://www.erights.org/)
 - [Ivy](https://docs.ivy-lang.org/bitcoin/)
+- [Ink](https://github.com/paritytech/ink)
+- [Yul](https://solidity.readthedocs.io/en/latest/yul.html)
 - [Lira](https://www.coindesk.com/etoro-aims-to-put-derivatives-on-the-blockchain-with-lira-programming-language)
 - [LDL](https://eprint.iacr.org/2018/416)
 - [Ride](https://docs.wavesplatform.com/en/ride/)
@@ -69,6 +71,7 @@ For personal notes and reference
 - [BALZaC](https://blockchain.unica.it/balzac/docs/)
 - [Mandala](https://www.academia.edu/37920706/Mandala_A_Smart_Contract_Programming_Language)
 - [Obsidian](http://obsidian-lang.com/)
+- [Babbage](https://medium.com/@chriseth/babbage-a-mechanical-smart-contract-language-5c8329ec5a0e)
 - [Simplicity](https://blockstream.com/2018/11/28/en-simplicity-github/)
 - [Miniscript](http://bitcoin.sipa.be/miniscript/)
 - [DeepSEA](https://certik.org/deepsea_blockchain.html)
