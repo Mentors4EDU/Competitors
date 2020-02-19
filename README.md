@@ -68,12 +68,14 @@ For personal notes and reference
 
 ### Programming Languages
 - [E](http://www.erights.org/)
+- [Fi](https://github.com/TezTech/fi-compiler)
 - [Ivy](https://docs.ivy-lang.org/bitcoin/)
 - [Ink](https://github.com/paritytech/ink)
 - [Yul](https://solidity.readthedocs.io/en/latest/yul.html)
 - [Elle](https://elle.readthedocs.io/en/latest/index.html)
 - [Clio](https://clio-lang.org/)
 - [Lira](https://www.coindesk.com/etoro-aims-to-put-derivatives-on-the-blockchain-with-lira-programming-language)
+- [Huff](https://github.com/AztecProtocol/huff)
 - [FSL](https://github.com/raineorshine/functional-solidity-language)
 - [LDL](https://eprint.iacr.org/2018/416)
 - [Idris](https://www.idris-lang.org/)
