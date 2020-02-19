@@ -41,6 +41,8 @@ For personal notes and reference
 - [BitVPN](https://www.bitvpn.net/)
 - [Sirin OS](https://sirinlabs.com/sirin-os/)
 - [Graphene](https://grapheneproject.io/)
+- [FunctionX](https://beincrypto.com/pundi-x-debuts-decentralized-mobile-os-device/)
+- [Qubes OS](https://www.qubes-os.org/)
 - [Centrifuge](https://centrifuge.io/)
 - [Brahma OS](https://www.brahmaos.io/)
 - [Zeppelin OS](https://github.com/zeppelinos)
