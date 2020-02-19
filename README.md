@@ -8,7 +8,7 @@ For personal notes and reference
 | [Gun](https://gun.eco/)         | [IPFS](https://ipfs.io/)       | [Bitcoin](https://bitcoin.org/en/)    | [EOS](https://eos.io/)          |
 | [Solid](https://solid.mit.edu/)       | [Libra](https://libra.org/en-US/)      | [GridCoin](https://gridcoin.us/)   | [Augur](https://www.augur.net/)        |
 | [ZeroNet](https://zeronet.io/)     | [Althea](https://althea.net/)     | [Cryptonote](https://cryptonote.org/) | [Tether](https://tether.to/)       |
-| [Ethereum](ethereum.org)    | [Arweave](https://www.arweave.org/)    |            | [Bitcoin SV](https://bitcoinsv.io/)   |
+| [Ethereum](ethereum.org)    | [Arweave](https://www.arweave.org/)    | [FoldingCoin](https://foldingcoin.net/)           | [Bitcoin SV](https://bitcoinsv.io/)   |
 | [HandShake](https://handshake.org/)   | [Pied Piper](http://www.piedpiper.com/) |            | [Bitcoin Cash](https://www.bitcoincash.org/) |
 | [Substraum](https://substratum.net/)   | [NameCoin](https://www.namecoin.org/)  |            |              |
 | [Decenternet](https://decenternet.com/) | [Blockstack](https://blockstack.org/) |            |              |
