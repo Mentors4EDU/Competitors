@@ -69,6 +69,7 @@ For personal notes and reference
 ### Programming Languages
 - [E](http://www.erights.org/)
 - [Fi](https://github.com/TezTech/fi-compiler)
+- [L4](https://legalese.com/)
 - [Ivy](https://docs.ivy-lang.org/bitcoin/)
 - [Ink](https://github.com/paritytech/ink)
 - [Yul](https://solidity.readthedocs.io/en/latest/yul.html)
@@ -80,6 +81,7 @@ For personal notes and reference
 - [LDL](https://eprint.iacr.org/2018/416)
 - [Idris](https://www.idris-lang.org/)
 - [Flint](https://github.com/flintlang/flint)
+- [SES](https://github.com/Agoric/SES)
 - [Ride](https://docs.wavesplatform.com/en/ride/)
 - [Pact](https://www.kadena.io/kadena-pactwhitepaper)
 - [Lynx](https://www.sciencedirect.com/science/article/abs/pii/009605519190008W)
