@@ -105,6 +105,7 @@ For personal notes and reference
 - [Serpent](https://github.com/ethereum/serpent/)
 - [Simvolio](https://apla.readthedocs.io/en/latest/topics/script.html)
 - [Rholang](https://developer.rchain.coop/)
+- [eWASM](https://ewasm.readthedocs.io/en/mkdocs/)
 - [BALZaC](https://blockchain.unica.it/balzac/docs/)
 - [Marlowe](https://www.udemy.com/course/marlowe-programming-language/)
 - [Mandala](https://www.academia.edu/37920706/Mandala_A_Smart_Contract_Programming_Language)
