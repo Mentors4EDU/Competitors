@@ -108,6 +108,7 @@ For personal notes and reference
 - [FSolidM](https://github.com/anmavrid/smart-contracts)
 - [Simvolio](https://apla.readthedocs.io/en/latest/topics/script.html)
 - [Rholang](https://developer.rchain.coop/)
+- [Liquidity](https://www.liquidity-lang.org/)
 - [eWASM](https://ewasm.readthedocs.io/en/mkdocs/)
 - [BALZaC](https://blockchain.unica.it/balzac/docs/)
 - [Marlowe](https://www.udemy.com/course/marlowe-programming-language/)
