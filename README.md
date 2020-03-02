@@ -28,6 +28,7 @@ For personal notes and reference
 - [Nebulous](https://nebulous.tech/)
 - [Particle.io](https://www.particle.io/)
 - [Router.link](https://router.link/main.html#/)
+- [Active Cypher](https://www.activecypher.com/)
 - [ESP32-Ethernet-Kit](https://docs.espressif.com/projects/esp-idf/en/latest/hw-reference/get-started-ethernet-kit.html)
 - [The 21 Bitcoin Computer](https://www.amazon.com/21-INC-21BC1-Bitcoin-Computer/dp/B014RD021C)
 
@@ -96,6 +97,7 @@ For personal notes and reference
 - [Vyper](https://github.com/vyperlang/vyper)
 - [Varna](https://github.com/aeternity/protocol/blob/master/contracts/varna.md)
 - [Script](https://en.bitcoin.it/wiki/Script)
+- [Lolisa](https://arxiv.org/abs/1803.09885)
 - [Mutan](https://github.com/obscuren/mutan)
 - [Findel](https://github.com/cryptolu/findel)
 - [Plutus](https://cardanodocs.com/technical/plutus/introduction/)
