@@ -13,6 +13,10 @@ For personal notes and reference
 | [Substraum](https://substratum.net/)   | [NameCoin](https://www.namecoin.org/)  |            |              |
 | [Decenternet](https://decenternet.com/) | [Blockstack](https://blockstack.org/) |            |              |
 
+### Others
+- [Scuttlebutt](https://scuttlebutt.nz/)  
+- [Librem One](https://librem.one/)
+
 ### Hardware
 - [Ori](https://www.ori.co/)
 - [TAAL](https://www.taal.com/)
