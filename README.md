@@ -14,6 +14,8 @@ For personal notes and reference
 | [Decenternet](https://decenternet.com/) | [Blockstack](https://blockstack.org/) |            |              |
 
 ### Others
+- [Disco](http://discoproject.org/)  
+- [Akamai](https://www.akamai.com/)  
 - [Scuttlebutt](https://scuttlebutt.nz/)  
 - [Librem One](https://librem.one/)
 
@@ -46,6 +48,7 @@ For personal notes and reference
 - [DAIOS](https://daios.io/)
 - [DUNIX](https://dl.acm.org/doi/10.1145/43921.43924)
 - [DC/OS](https://dcos.io/)
+- [Cartesi](https://cartesi.io/)  
 - [Cronus](https://apps.dtic.mil/docs/citations/ADA139588)
 - [TChain](http://tchain.cloud/)
 - [BitVPN](https://www.bitvpn.net/)
