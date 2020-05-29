@@ -17,7 +17,8 @@ For personal notes and reference
 - [Disco](http://discoproject.org/)  
 - [Akamai](https://www.akamai.com/)  
 - [Scuttlebutt](https://scuttlebutt.nz/)  
-- [Librem One](https://librem.one/)
+- [Librem One](https://librem.one/)  
+- [Local Peer Discovery](https://en.wikipedia.org/wiki/Local_Peer_Discovery)
 
 ### Hardware
 - [Ori](https://www.ori.co/)
